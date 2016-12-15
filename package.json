@@ -1,7 +1,7 @@
 {
-  "name": "stylelint-config-standard",
+  "name": "stylelint-config-yh",
   "version": "15.0.0",
-  "description": "Standard shareable config for stylelint",
+  "description": "Standard YH's config for stylelint",
   "keywords": [
     "stylelint",
     "stylelint-config",
@@ -11,7 +11,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/stylelint/stylelint-config-standard.git"
+    "url": "https://github.com/aandrewww/stylelint-config-yh.git"
   },
   "main": "index.js",
   "files": [
